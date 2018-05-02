@@ -13,6 +13,7 @@
 		AE0D71DE2099CDA500B80FD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE0D71DD2099CDA500B80FD6 /* Assets.xcassets */; };
 		AE0D71E12099CDA500B80FD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE0D71DF2099CDA500B80FD6 /* LaunchScreen.storyboard */; };
 		AE0D71E92099DCA600B80FD6 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0D71E82099DCA600B80FD6 /* RatingControl.swift */; };
+		AE0D71EB2099EA2F00B80FD6 /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0D71EA2099EA2F00B80FD6 /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE0D71E02099CDA500B80FD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE0D71E22099CDA500B80FD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE0D71E82099DCA600B80FD6 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
+		AE0D71EA2099EA2F00B80FD6 /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AE0D71D82099CDA200B80FD6 /* ViewController.swift */,
 				AE0D71DA2099CDA200B80FD6 /* Main.storyboard */,
 				AE0D71DD2099CDA500B80FD6 /* Assets.xcassets */,
+				AE0D71EA2099EA2F00B80FD6 /* Meal.swift */,
 				AE0D71DF2099CDA500B80FD6 /* LaunchScreen.storyboard */,
 				AE0D71E22099CDA500B80FD6 /* Info.plist */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE0D71EB2099EA2F00B80FD6 /* Meal.swift in Sources */,
 				AE0D71D92099CDA200B80FD6 /* ViewController.swift in Sources */,
 				AE0D71E92099DCA600B80FD6 /* RatingControl.swift in Sources */,
 				AE0D71D72099CDA200B80FD6 /* AppDelegate.swift in Sources */,
